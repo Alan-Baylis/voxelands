@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/scene.unity
+    path: Assets/memus.unity
+    guid: 60a04c1387a249f4bbfaef965ce88560
+  - enabled: 1
+    path: Assets/world.unity
     guid: 0220400ce0d4e3243a626c26894a5c41
